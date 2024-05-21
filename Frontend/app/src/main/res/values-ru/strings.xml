@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Florascope</string>
+
+    <!--    Settings Fragment-->
+    <string name="dark_mode">Тёмная тема</string>
+    <string name="language">Язык</string>
+    <string name="send_feedback">Обратная связь</string>
+
+    <!--    Action Bars-->
+    <string name="home_screen_title">Главная</string>
+    <string name="camera_screen_title">Настройки камеры</string>
+    <string name="settings_screen_title">Настройки</string>
+    <string name="disease_screen_title">О болезни</string>
+
+    <!--    Feedback Fragment-->
+    <string name="send_button_text">Отправить</string>
+    <string name="email">Почта</string>
+    <string name="feedback">Отзыв</string>
+
+    <!--    Disease Fragment-->
+    <string name="symptoms">Симптомы</string>
+    <string name="treatment">Лечение</string>
+
+    <!--    Camera Settings-->
+    <string name="apples">Яблоко</string>
+    <string name="banana">Банан</string>
+    <string name="cherry">Вишня</string>
+    <string name="corn">Кукуруза</string>
+    <string name="grape">Виноград</string>
+    <string name="tomato">Помидор</string>
+    <string name="peach">Персик</string>
+    <string name="potato">Картошка</string>
+    <string name="pepper">Перец</string>
+    <string name="watermelon">Арбуз</string>
+</resources>
